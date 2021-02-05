@@ -24,7 +24,7 @@ Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx
 Security.evtx
 System.evtx
 
-Luego ejecuta parserator.ps1 y se feliz.(Dedicado a Yovana Rodriguez)
+Luego ejecuta parserator.ps1 y se feliz.
  
   
 #>
@@ -36,10 +36,6 @@ Write-Host " _____  _______  ______ _______ _______  ______ _______ _______  ___
 Write-Host "|_____] |_____| |_____/ |______ |______ |_____/ |_____|    |    |     | |_____/  " -ForegroundColor green 
 Write-Host "|       |     | |    \_ ______| |______ |    \_ |     |    |    |_____| |    \_  " -ForegroundColor green 
 Write-Host "                                                                                 " 
-Write-Host  " " 
-Write-Host "*********************************************************************************"  
-Write-Host "                       SANTANDER GLOBAL FORENSICS TEAM                           "   
-Write-Host "*********************************************************************************"  
 Write-Host  " "  
 Write-Host  "                            - EVTX Analysis -                                   "                                                           
 Write-Host  " "                                                    
