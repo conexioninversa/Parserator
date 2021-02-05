@@ -12,8 +12,6 @@ cls
  "************************************************************"  
  "          Pedro Sánchez Cordero - Conexioninversa  (2021)   "   
  "************************************************************"  
-Se necesita los EVTX.
-Luego ejecuta parserator.ps1 y se feliz como Raúl
 
 Se necesita los SIGUIENTES evtx: 
 
