@@ -22,7 +22,9 @@ At the moment you need to have the following EVTX on the "ps1" route:
 * System.evtx
 
 And install Microsoft Logparser:
+
 https://www.microsoft.com/en-us/download/details.aspx?id=24659
+
 And you install it in the same path of the EVTX
 
 Once you get them run ".\Parserator.ps1" and be happy
